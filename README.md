@@ -2,14 +2,6 @@
 
 Hello! I'm Ismail Patel, a passionate and driven Software Engineer currently completing my Bachelor's in Computer Science at DePaul University (expected graduation: June 2025). My academic journey and professional experiences have cultivated my expertise in software development, machine learning, cybersecurity, and formal verification. I'm committed to building innovative software solutions that are secure, scalable, and impactful.
 
-## Skills
-
-- **Programming Languages:** Python, JavaScript, TypeScript, Java, Scala, C/C++, R, SQL, Solidity, Kotlin, Swift
-- **Frameworks & Libraries:** React, React Native, Next.js, Node.js, Express.js, Flutter, Angular, Pandas, Prisma ORM
-- **Tools & Platforms:** Docker, Git, GitHub, Firebase, Vercel, AWS, Azure, MongoDB, PostgreSQL, SQLite, Z3 Solver, KeYmaera X, Gemini AI
-- **Security & Authentication:** JWT, OAuth, Clerk Authentication, AES Encryption
-- **Other:** REST APIs, SMT-LIB, Formal Verification
-
 ## Professional Experience
 
 - **Software Engineering Research Assistant, DePaul University**\
